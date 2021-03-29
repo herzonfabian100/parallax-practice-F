@@ -1,6 +1,6 @@
 .fa {
     align-items: center;
-    padding: 20px;
+    padding: 10px;
     font-size: 30px;
     width: 50px;
     text-align: center;
@@ -39,4 +39,17 @@
 .fa-instagram {
     background: #e2e2e2;
     color: white;
+}
+
+.imageformat {
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: auto;
+}
+
+.imageformatsection {
+    background-repeat: no-repeat;
+    background-color: rgb(90, 157, 235);
+    background-size: 100%;
+    height: auto;
 }
